@@ -1,0 +1,17 @@
+.container {
+  height: 60vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+    url('../Assets/hero.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.h1 {
+  font-family: 'Lusitana', serif;
+  color: rgb(26, 25, 25);
+  margin: 0;
+  font-size: 5rem;
+  font-weight: 200;
+  letter-spacing: 2px;
+  line-height: 2.7;
+}
